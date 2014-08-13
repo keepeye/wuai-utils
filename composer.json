@@ -1,0 +1,6 @@
+{
+	"name":"wuai/utils",
+	"autoload":{
+		"psr-4":{"Wuai\\Utils\\":"src/"}
+	}
+}
